@@ -37,7 +37,7 @@ gogoShell.connect(config)
 
 ## API
 
-GogoShell is an instance of [net.Socket](https://nodejs.org/api/net.html#net_class_net_socket) and inherits all it's properties, methods, and events.
+GogoShell is an instance of [net.Socket](https://nodejs.org/api/net.html#net_class_net_socket) and inherits all its properties, methods, and events.
 
 ### new GogoShell([options])
 
